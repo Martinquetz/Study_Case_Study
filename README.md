@@ -48,6 +48,8 @@ mhagc <- mean(hagc$Study)
 shagc <- sd(hagc$Study)
 ```
 
+![Screenshot 2024-04-13 185513](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/40c8ab15-d8d6-4140-8847-abd31d0bf2d9)
+
 Data Set | Mean | Standard Deviation
 ------------- | ------------- | ------------- 
 Mart | `r mean(mart$Study, na.rm=TRUE)` | `r sd(mart$Study, na.rm=TRUE)`
