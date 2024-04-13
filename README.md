@@ -2,9 +2,8 @@
 
 ---
 title: "Study Habit Case Study with R"
-author:
-- Martin U
-date: 'August 19, 2022 at 11:59PM'
+- author: Martin U
+- date: 'August 19, 2022 at 11:59PM'
 ---
 
 
