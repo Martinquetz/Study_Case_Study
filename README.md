@@ -124,6 +124,8 @@ We can use Tukey's HSD to find which mean(s) are different at $\alpha=0.05$.
 TukeyHSD(result, conf.level = 0.95)
 ```
 
+![Screenshot 2024-04-13 185956](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/192e81f1-4b5c-4575-8d75-075d88c63c10)
+
 We fail to reject the null for the tests between BAPG, CAGC and HAGC. This means the mean study times of the three analytics programs are not significantly different.
 
 ## Using a barplot to interpret the result
