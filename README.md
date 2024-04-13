@@ -149,7 +149,7 @@ library(granovaGG)
 granovagg.1w(prosamps$Study, group=prosamps$Program)
 ```
 
-![Screenshot 2024-04-13 190345](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/45faa0d4-60f2-4d8c-9e5d-df857ba27115)
+![Screenshot 2024-04-13 190544](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/c3cc7c8f-f46b-4ee3-ba2b-7a6b5f506034)
 
 
 ![Screenshot 2024-04-13 182806](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/46576934-7b72-4487-9638-615040248ed4)
