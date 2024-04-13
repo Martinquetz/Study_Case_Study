@@ -115,6 +115,11 @@ summary(result)
 qf(0.95, df1 = 2, df2 = 147)  #3.057621
 ```
 
+![Screenshot 2024-04-13 191530](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/bed1b65a-8e6a-4a20-b215-f2f9848fadca)
+
+![Screenshot 2024-04-13 191645](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/a78f509b-42f3-4660-9e8e-09694d9dac02)
+
+
 The summary showed the p-value for the test is P-value=0.131 > 0.05 = $\alpha$. Also, the F-value=2.06 < 3.0576=F$\*$. Therefore, we fail to reject the null and conclude that there's no significant difference between the means Study times of the analytics programs. 
 
 ## Conduct Tukey's HSD Test
