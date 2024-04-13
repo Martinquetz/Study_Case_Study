@@ -149,6 +149,9 @@ library(granovaGG)
 granovagg.1w(prosamps$Study, group=prosamps$Program)
 ```
 
+![Screenshot 2024-04-13 190345](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/45faa0d4-60f2-4d8c-9e5d-df857ba27115)
+
+
 ![Screenshot 2024-04-13 182806](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/46576934-7b72-4487-9638-615040248ed4)
 
 The blue squares (light and dark) at the bottom right corner of the chart further tell a similar story, i.e. there's no significant difference between the MST and MSE, suggesting the F-Value is closer to 1 than away from it.
