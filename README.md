@@ -50,14 +50,6 @@ shagc <- sd(hagc$Study)
 
 ![Screenshot 2024-04-13 185513](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/40c8ab15-d8d6-4140-8847-abd31d0bf2d9)
 
-Data Set | Mean | Standard Deviation
-------------- | ------------- | ------------- 
-Mart | `r mean(mart$Study, na.rm=TRUE)` | `r sd(mart$Study, na.rm=TRUE)`
-All Students | `r mean(combined$Study, na.rm=TRUE)` | `r sd(combined$Study, na.rm=TRUE)`
-BAPG | `r mean(bapg$Study, na.rm=TRUE)` | `r sd(bapg$Study, na.rm=TRUE)`
-CAGC | `r mean(cagc$Study, na.rm=TRUE)` | `r sd(cagc$Study, na.rm=TRUE)`
-HAGC | `r mean(hagc$Study, na.rm=TRUE)` | `r sd(hagc$Study, na.rm=TRUE)`
-
 
 #### Study questions: 
 
