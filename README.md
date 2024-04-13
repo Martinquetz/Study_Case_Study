@@ -1,9 +1,9 @@
 # Study_Case_Study
 
 ---
-title: "Study Habit Case Study with R"
-- author: Martin U
-- date: 'August 19, 2022 at 11:59 PM'
+Title: "Study Habit Case Study with R"
+- Author: Martin U
+- Date: 'August 19, 2022 at 11:59 PM'
 ---
 
 
