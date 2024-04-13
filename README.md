@@ -204,6 +204,10 @@ qchisq(0.05, df=(dim(observed.hours)[1]-1)*(dim(observed.hours)[2]-1), lower.tai
 #and
 #P-Value=0.5819 > 0.05=alpha
 ```
+![Screenshot 2024-04-13 191033](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/17af156f-c603-4ae1-bdb7-8b03b3adfc5a)
+
+![Screenshot 2024-04-13 191124](https://github.com/Martinquetz/Study_Case_Study/assets/92187086/0760b38f-3359-410f-b873-7fc2ffdea6a7)
+
 From the chi-square analysis above, 
 
 $\X^2$ = 1.0828 < 5.991465 = $\X^2$*
