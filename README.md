@@ -9,7 +9,6 @@ Title: "Study Habit Case Study with R"
 
 ## **<span style="color: #8F2050;">Introduction</span>**
 
-## Introduction
 
 In QMM1001 and QMM1002, all students collected personalized data to analyze, using RMarkdown to analyze this data. The objective of this term's case study is to determine if there are differences in the average study times for students in the different analytics streams. Also, we need to determine if the distribution of days studied is more than 3.13 hours (the average for McGill's students). The study is also interested to know how my personal study time changed.  The above and other habits were analyzed and compared to the plan, using recorded personal data documented over time. I started recording my data in the first semester, stopped at the end of the semester, and resumed at the beginning of the second semester. I recorded these data for 116 days. Table 1.1 below shows the relevant variables for this Case Study.
 
